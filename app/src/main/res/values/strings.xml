@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="first_fragment">Pierwszy Pierdolony Fragment z piekła</string>
+    <string name="second_fragment">Drugi Pierdolony Fragment z piekła</string>
+    <string name="third_fragment">Trzeci Pierdolony Fragment z piekła</string>
+</resources>
